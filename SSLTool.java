@@ -1,4 +1,4 @@
-package com.bv.util;
+package your.folderorpackage.name;
 
 import javax.net.ssl.*;
 import java.security.SecureRandom;
